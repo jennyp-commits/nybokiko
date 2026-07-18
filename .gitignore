@@ -1,0 +1,27 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Android build outputs
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/app/release/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Keystore (JAMAIS committer)
+*.keystore
+*.jks
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/

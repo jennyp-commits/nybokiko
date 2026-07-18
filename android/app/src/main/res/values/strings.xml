@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trano Boky</string>
+    <string name="title_activity_main">Trano Boky · Filazantsara Miako</string>
+    <string name="package_name">mg.fjkm.filazantsara.tranoboky</string>
+    <string name="custom_url_scheme">mg.fjkm.filazantsara.tranoboky</string>
+</resources>
